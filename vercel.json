@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://3wg9sx2kui5imbiu0ia70sq56lyql.f11-c9b.workers.dev/$1"
+    }
+  ]
+}
